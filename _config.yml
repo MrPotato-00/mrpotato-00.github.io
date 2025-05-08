@@ -1,18 +1,1 @@
-title: "My Portfolio"
-description: "Personal website"
-url: "https://mrpotato-00.github.io" # replace with your GitHub Pages URL
-
 theme: minimal-mistakes-jekyll
-
-plugins:
-  - jekyll-include-cache
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-archives
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
