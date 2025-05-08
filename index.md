@@ -8,7 +8,7 @@ excerpt: "Hi, I'm Dipankar Dutta, an Information Technology undergrad student pa
 
 Hi, I'm Dipankar Dutta, a student currently pursuing undergrad studies in Information Technology. I have a keen interest in Artificial Intelligence and Machine Learning.
 
-My expertise revolve around Classical Machine Learning and Deep Learning. I learn by implementing the ideas from scratch to know what goes under the hood as well as help strengthen my fundamental.
+My expertise revolve around Classical Machine Learning and Deep Learning. I aspire to develop intelligent system that would be equivalent to what GPT is today. I learn by implementing the ideas from scratch to know what goes under the hood as well as help strengthen my fundamentals. I also have some understanding of MLOps workflows and tools.
 
 ## Skills
 
