@@ -8,13 +8,13 @@ excerpt: "Hi, I'm Dipankar Dutta, an Information Technology undergrad student pa
 
 Hi, I'm Dipankar Dutta, a student currently pursuing undergrad studies in Information Technology. I have a keen interest in Artificial Intelligence and Machine Learning.
 
-My expertise revolve around Classical Machine Learning and Deep Learning. I am very enthusiatic on building Intelligent Systems. I learn by implementing the ideas from scratch to know what goes under the hood as well as help strengthen my fundamentals. I also have some understanding of MLOps tools and deployment workflows.
+My expertise revolves around Machine Learning and Deep Learning. I am very enthusiatic on building Intelligent Systems. I learn by implementing the ideas from scratch to know what goes under the hood, which further helps strengthen my fundamentals. I enjoy solving problems in Computer Vision and currently exploring Multi-modality. I also have some understanding and experience working with MLOps tools and deployment workflows.
 
 ## Skills
 
 - **Languages**: C++, Python, SQL
 - **Framework**: Tensorflow, PyTorch, Scikit-learn, Streamlit
-- **Developer Tools**: Git, Docker, PostgresSQL 
+- **Developer Tools**: Git, Docker, PostgreSQL 
 - **Libraries**: Pandas, NumPy, OpenCV
 
 ## Projects
