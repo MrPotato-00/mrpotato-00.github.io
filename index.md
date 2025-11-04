@@ -4,44 +4,6 @@ title: "Welcome to My Portfolio"
 excerpt: "Hi, I'm Dipankar Dutta, an Information Technology undergrad student passionate about Machine Learning and Artificial Intelligence."
 ---
 
-<style>
-/* Pixel-art style background animation */
-body {
-  background: repeating-linear-gradient(
-    45deg,
-    #1e1e1e,
-    #1e1e1e 10px,
-    #2a2a2a 10px,
-    #2a2a2a 20px
-  );
-  animation: pixelShift 10s linear infinite;
-  background-size: 40px 40px;
-  color: #e0e0e0;
-  font-family: "Fira Code", monospace;
-}
-
-@keyframes pixelShift {
-  0% { background-position: 0 0; }
-  100% { background-position: 40px 40px; }
-}
-
-/* Keep the content readable */
-.main-content {
-  background-color: rgba(0, 0, 0, 0.7);
-  padding: 20px;
-  border-radius: 10px;
-  max-width: 800px;
-  margin: 60px auto;
-  box-shadow: 0 0 15px rgba(0,0,0,0.5);
-}
-h1, h2 {
-  color: #00ffd0;
-  text-shadow: 0 0 5px #00ffd0;
-}
-</style>
-
-<div class="main-content">
-
 # About Me
 
 Hi, I'm Dipankar Dutta, a student currently pursuing undergrad studies in Information Technology.  
@@ -58,8 +20,6 @@ I also have some understanding and experience working with MLOps tools and deplo
 - **Framework**: TensorFlow, PyTorch, Scikit-learn, Streamlit  
 - **Developer Tools**: Git, Docker, PostgreSQL  
 - **Libraries**: Pandas, NumPy, OpenCV
-
-</div>
 
 
 ## Projects
